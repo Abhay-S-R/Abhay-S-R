@@ -23,25 +23,25 @@
 ## 🏆 Competitive Programming
 
 <p align="center">
-  <a href="https://codeforces.com/profile/bigprog46" title="Codeforces">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" height="40" alt="Codeforces" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/obvious_proof" title="CodeChef">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" height="40" alt="CodeChef" style="filter: invert(53%) sepia(61%) saturate(400%) hue-rotate(360deg);" />
-  </a>
+  <a href="https://codeforces.com/profile/bigprog46" title="Codeforces">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" height="40" alt="Codeforces" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/obvious_proof" title="CodeChef">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" height="40" alt="CodeChef" style="filter: invert(53%) sepia(61%) saturate(400%) hue-rotate(360deg);" />
+  </a>
 </p>
 
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhay-s-r/" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:abhaysr946@gmail.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/abhay-s-r/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abhaysr946@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
+  </a>
 </p>
 
 ---
