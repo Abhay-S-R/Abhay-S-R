@@ -1,11 +1,9 @@
 <p align="center">
-  <a href="https://github.com/Abhay-S-R">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono+Italic&weight=700&size=35&color=FFFFFF&background=00000000&duration=4000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abhay+S+R+%F0%9F%91%8B;Web+Developer;Competitive+Programmer;Open+Source+Enthusiast">
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono+Italic&weight=700&size=35&color=111111&background=00000000&duration=4000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abhay+S+R+%F0%9F%91%8B;Web+Developer;Competitive+Programmer;Open+Source+Enthusiast">
       <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono+Italic&weight=700&size=35&color=FFFFFF&background=00000000&duration=4000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abhay+S+R+%F0%9F%91%8B;Web+Developer;Competitive+Programmer;Open+Source+Enthusiast" alt="Typing SVG" />
     </picture>
-  </a>
 </p>
 
 - 🌐 I build things for the web and practice algorithms on Codeforces & CodeChef
@@ -17,7 +15,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,tailwind,git" height="40" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,tailwind,git" height="90" alt="Tech Stack" />
 </p>
 
 ---
@@ -25,25 +23,17 @@
 ## 🏆 Competitive Programming
 
 <p align="center">
-    <a href="https://codeforces.com/profile/bigprog46" title="Codeforces" style="text-decoration: none;">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" height="40" alt="Codeforces" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/obvious_proof" title="CodeChef" style="text-decoration: none;">
-  <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40" alt="CodeChef" />
-</a>
+  <a href="https://codeforces.com/profile/bigprog46" title="Codeforces"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" height="90" alt="Codeforces" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/obvious_proof" title="CodeChef"><img src="https://cdn.codechef.com/images/cc-logo.svg" height="50" alt="CodeChef" /></a>
 </p> 
 
 ## 🔗 Connect With Me
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/abhay-s-r/" title="LinkedIn" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-    <a href="mailto:abhaysr946@gmail.com" title="Email" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
-  </a>
+    <a href="https://www.linkedin.com/in/abhay-s-r/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="90" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:abhaysr946@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" height="90" alt="Email" /></a>
 </p>
 
 ---
