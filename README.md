@@ -1,8 +1,8 @@
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono+Italic&weight=700&size=35&color=FFFFFF&background=00000000&duration=4000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abhay+S+R+%F0%9F%91%8B;Web+Developer;Competitive+Programmer;Open+Source+Enthusiast">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono+Italic&weight=700&size=35&color=111111&background=00000000&duration=4000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abhay+S+R+%F0%9F%91%8B;Web+Developer;Competitive+Programmer;Open+Source+Enthusiast">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono+Italic&weight=700&size=35&color=FFFFFF&background=00000000&duration=4000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abhay+S+R+%F0%9F%91%8B;Web+Developer;Competitive+Programmer;Open+Source+Enthusiast" alt="Typing SVG" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono+Italic&weight=700&size=35&color=FFFFFF&background=00000000&duration=4000&center=true&vCenter=true&width=580&lines=Hi%2C+I'm+Abhay+S+R+%F0%9F%91%8B;Web+Developer;Competitive+Programmer;Open+Source+Contributor">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono+Italic&weight=700&size=35&color=111111&background=00000000&duration=4000&center=true&vCenter=true&width=580&lines=Hi%2C+I'm+Abhay+S+R+%F0%9F%91%8B;Web+Developer;Competitive+Programmer;Open+Source+Contributor">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono+Italic&weight=700&size=35&color=FFFFFF&background=00000000&duration=4000&center=true&vCenter=true&width=580&lines=Hi%2C+I'm+Abhay+S+R+%F0%9F%91%8B;Web+Developer;Competitive+Programmer;Open+Source+Contributor" alt="Typing SVG" />
     </picture>
 </p>
 
@@ -26,7 +26,7 @@
   <a href="https://codeforces.com/profile/bigprog46" title="Codeforces"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" height="90" alt="Codeforces" /></a>
   &nbsp;&nbsp;
   <a href="https://www.codechef.com/users/obvious_proof" title="CodeChef"><img src="https://cdn.codechef.com/images/cc-logo.svg" height="50" alt="CodeChef" /></a>
-</p> 
+</p>
 
 ## 🔗 Connect With Me
 
@@ -45,4 +45,5 @@
 </p>
 
 ## 🛡️ My Badges
+
 [![An image of @abhaysr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhaysr)](https://holopin.io/@abhaysr)
