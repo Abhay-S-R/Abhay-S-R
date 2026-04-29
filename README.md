@@ -1,21 +1,47 @@
-<p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono+Italic&weight=700&size=35&color=FFFFFF&background=00000000&duration=4000&center=true&vCenter=true&width=580&lines=Hi%2C+I'm+Abhay+S+R+%F0%9F%91%8B;Web+Developer;Competitive+Programmer;Open+Source+Contributor">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono+Italic&weight=700&size=35&color=111111&background=00000000&duration=4000&center=true&vCenter=true&width=580&lines=Hi%2C+I'm+Abhay+S+R+%F0%9F%91%8B;Web+Developer;Competitive+Programmer;Open+Source+Contributor">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono+Italic&weight=700&size=35&color=FFFFFF&background=00000000&duration=4000&center=true&vCenter=true&width=580&lines=Hi%2C+I'm+Abhay+S+R+%F0%9F%91%8B;Web+Developer;Competitive+Programmer;Open+Source+Contributor" alt="Typing SVG" />
-    </picture>
+# Hi! I'm Abhay S R 
+
+- 💻 Web Developer
+- 🏆 Competitive Programmer
+- 🌟 Open Source Contributor
+
+<p align="left">
+  <a href="https://github.com/Abhay-S-R">
+    <img src="https://komarev.com/ghpvc/?username=Abhay-S-R&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </a>
 </p>
 
-- 🌐 I build things for the web and practice algorithms on Codeforces & CodeChef
-- 📚 Currently learning React and Tailwind CSS and improving CP fundamentals
-- 🤝 I love contributing to open source and interested to collaborate on interesting projects
+---
+
+### 👨‍💻 About Me
+
+- I build things for the web and practice algorithms on **Codeforces** & **CodeChef**
+- Currently exploring **Express**, **FastAPI** andbackend development, and improving CP fundamentals
+- I love contributing to open source and am always interested in collaborating on exciting projects
 
 ---
 
 ## 🧰 Tech Stack
 
+<h4 align="center">Frontend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,tailwind,git" height="90" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="65" alt="Frontend Stack" />
+</p>
+
+<h4 align="center">Backend & APIs</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="65" alt="Backend Stack" />
+</p>
+
+<h4 align="center">🤖 AI & Data</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="65" alt="Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="65" alt="LangChain" />
+</p>
+
+<h4 align="center">🛠 Languages & Tools</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,git" height="65" alt="Languages and Tools" />
 </p>
 
 ---
@@ -23,27 +49,48 @@
 ## 🏆 Competitive Programming
 
 <p align="center">
-  <a href="https://codeforces.com/profile/bigprog46" title="Codeforces"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" height="90" alt="Codeforces" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/obvious_proof" title="CodeChef"><img src="https://cdn.codechef.com/images/cc-logo.svg" height="50" alt="CodeChef" /></a>
-</p>
-
-## 🔗 Connect With Me
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/abhay-s-r/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="90" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:abhaysr946@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" height="90" alt="Email" /></a>
+  <a href="https://codeforces.com/profile/bigprog46" title="Codeforces">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" height="70" alt="Codeforces" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/obvious_proof" title="CodeChef">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" height="70" alt="CodeChef" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhay-S-R&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhay-S-R&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-S-R&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay-S-R&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+</p>
+
+---
 
 ## 🛡️ My Badges
 
-[![An image of @abhaysr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhaysr)](https://holopin.io/@abhaysr)
+<p align="center">
+  <a href="https://holopin.io/@abhaysr">
+    <img src="https://holopin.me/abhaysr" alt="An image of @abhaysr's Holopin badges" />
+  </a>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhay-s-r/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="65" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:abhaysr946@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="65" alt="Email" />
+  </a>
+</p>
