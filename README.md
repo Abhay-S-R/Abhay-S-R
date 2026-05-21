@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 - I build things for the web and practice algorithms on **Codeforces** & **CodeChef**
-- Currently exploring **Express**, **FastAPI** andbackend development, and improving CP fundamentals
+- Currently exploring **Express**, **FastAPI** and backend development, and improving CP fundamentals
 - I love contributing to open source and am always interested in collaborating on exciting projects
 
 ---
