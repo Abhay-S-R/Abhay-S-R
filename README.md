@@ -58,7 +58,7 @@
   </a>
 </p>
 
-## GitHub Contribution Streak
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay-S-R&theme=tokyonight&hide_border=true" height="195" alt="GitHub contribution streak" />
